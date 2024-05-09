@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057144907343",
+    "project_id": "homo-eea8b",
+    "storage_bucket": "homo-eea8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057144907343:android:0aebbab04576dbd9adec3a",
+        "android_client_info": {
+          "package_name": "com.example.hemoproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkEDvSs50P7Px93D9TI1BrFaV45NnwndQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

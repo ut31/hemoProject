@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">hemoProject</string>
+
+    <string-array name="city_names">
+        <item>Amman</item>
+        <item>Ajloun</item>
+        <item>Aqaba</item>
+        <item>Balqa</item>
+        <item>Irbid</item>
+        <item>Jerash</item>
+        <item>Karak</item>
+        <item>Maan</item>
+        <item>Madaba</item>
+        <item>Mafraq</item>
+        <item>Tafilah</item>
+        <item>Zarqa</item>
+    </string-array>
+
+</resources>
+

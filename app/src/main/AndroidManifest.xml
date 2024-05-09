@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/hemored"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/hemored"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HemoProject"
+        tools:targetApi="31">
+        <activity
+            android:name=".signin"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".createNewAccount" />
+        <activity android:name=".donorHome" />
+        <activity android:name=".updateProfileUser" />
+        <activity android:name=".managerHome" />
+        <activity android:name=".upcomingEvents" />
+        <activity android:name=".allDonors" />
+        <activity android:name=".createEvent" />
+        <activity android:name=".bookAppointment" />
+        <activity android:name=".myAppointment" />
+        <activity android:name=".hospitals" />
+        <activity android:name=".Statistic" />
+        <activity android:name=".usersAppointments" />
+
+    </application>
+
+</manifest>
